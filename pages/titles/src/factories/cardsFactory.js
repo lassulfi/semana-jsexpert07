@@ -1,3 +1,5 @@
+import "./../../lib/sdk.js"
+
 import CardsController from "./../controllers/cardsController.js"
 import CardsView from "./../views/cardsView.js"
 import CardsService from "./../services/cardsService.js"
