@@ -35,6 +35,11 @@ Marque esse projeto com uma estrela 🌟
 - [] - Aula 03 - Corrigir Banner de titulo de video, para ficar atrás do desenho das mãos e se tornar clicável
 - [] - Aula 04 - Usar as mãos virtuais também no Video Player
 
+Desafio plus: implementar testes unitários e alcançar 100% de coverage (avançado)
+
+### Links mostrados nos aulas:
+- Reuni todos os links em [referências](./referencias.md)
+
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
